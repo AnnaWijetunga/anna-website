@@ -37,21 +37,14 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Software Engineer',
     contacts: {
-      email: '#',
+      email: '',
       facebook: '#',
       telegram: '',
       twitter: '#',
       github: '#',
       rss: '',
-      vkontakte: '',
       linkedin: '',
       instagram: '',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
     }
   }
 };
