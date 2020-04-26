@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Anna Wijetunga',
   subtitle: 'Software Engineer',
-  copyright: '© All rights reserved.',
+  copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
