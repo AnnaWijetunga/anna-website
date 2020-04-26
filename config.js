@@ -20,6 +20,14 @@ module.exports = {
       path: '/pages/about'
     },
     {
+      label: 'Projects',
+      path: 'pages/projects'
+    },
+    {
+      label: 'Resume',
+      path: 'pages/resume',
+    },
+    {
       label: 'Contact me',
       path: '/pages/contacts'
     }
@@ -37,7 +45,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: '',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
