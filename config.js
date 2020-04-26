@@ -45,6 +45,13 @@ module.exports = {
       rss: '',
       linkedin: '',
       instagram: '',
+      vkontakte: '',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: ''
     }
   }
 };
