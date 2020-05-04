@@ -32,9 +32,9 @@ Full stack web developer with experience in Ruby and JavaScript frameworks, pass
 ## EDUCATION
 **Flatiron School** -- Immersive Software Engineer Program (11/2019 - 4/2020)
 
-**Teacher U/Relay Graduate School of Education** -- Master of Science (M.S.) in Education (2008-2010)
+**Teacher U / Relay** -- Master of Science (M.S.) in Education (2008-2010)
 
-**University of Michigan**	Bachelor of Arts (B.A.) in Education
+**University of Michigan** -- Bachelor of Arts (B.A.) in Education (2001 - 2006)
 
 ## TECHNICAL SKILLS
 Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design, Gatsby
