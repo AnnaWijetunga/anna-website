@@ -9,9 +9,6 @@ socialImage: ""
 ## FULL STACK SOFTWARE ENGINEER
 Full stack web developer with experience in Ruby and JavaScript frameworks, passionate about learning new skills and applying them to real-world situations. My background in education management provided me with exceptional communication and project management skills, as well as an aptitude for creative and scrappy solutions to big problems, which translates well to writing code and working in teams.
 
-## TECHNICAL SKILLS
-Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design
-
 ## EXPERIENCE
 ### Teachable (Ed-Tech)  
 **Senior Customer Education Specialist** -- New York, NY	(5/2018 - 11/2019)       
@@ -32,9 +29,12 @@ Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap
 + Achieved 34% points in ELA and 24% points in Math, exceeding state and city averages by 24% points.
 + Resolved over 200 student behavioral interventions by troubleshooting solutions with parents, teachers, and teachers.
 
-EDUCATION
-Flatiron School 	Online
-Immersive Software Engineer Program 	November 2019 - April 2020
+## EDUCATION
+**Flatiron School** -- Immersive Software Engineer Program (11/2019 - 4/2020)
 
-University of Michigan	Ann Arbor, MI
-Bachelor of Arts (B.A.) in Education 	
+**Teacher U/Relay Graduate School of Education** -- Master of Science (M.S.) in Education (2008-2010)
+
+**University of Michigan**	Bachelor of Arts (B.A.) in Education
+
+## TECHNICAL SKILLS
+Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design, Gatsby
