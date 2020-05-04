@@ -13,14 +13,13 @@ Full stack web developer with experience in Ruby and JavaScript frameworks, pass
 Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design
 
 ## EXPERIENCE
-### Teachable (ed-tech)  	
-New York, New York
-Senior Customer Education Specialist 	       
-5/2018 - 11/2019
-Resolved thousands of technical support emails, averaging 350 tickets per week, double the team average of 160.
-Achieved 100% live chat customer satisfaction score as compared to a 92% team average.
-Recognized as the top performer, promoted to Specialist taking on training new customer educators.
-Cut response times in half by prioritizing recurring and critical client requests for faster processing by engineers.
+### Teachable (Ed-Tech)  
+**Senior Customer Education Specialist** -- New York, NY	(5/2018 - 11/2019)       
+
++ Resolved thousands of technical support emails, averaging 350 tickets per week, double the team average of 160.
++ Achieved 100% live chat customer satisfaction score as compared to a 92% team average.
++ Recognized as the top performer, promoted to Specialist taking on training new customer educators.
++ Cut response times in half by prioritizing recurring and critical client requests for faster processing by engineers.
 
 Integrative Nutrition Health Coach 	       6/2014 - 1/2017
 Motivated over 60 clients to build sustainable habits through high-mileage questions and personalized goal setting.
