@@ -21,13 +21,16 @@ Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap
 + Recognized as the top performer, promoted to Specialist taking on training new customer educators.
 + Cut response times in half by prioritizing recurring and critical client requests for faster processing by engineers.
 
-Integrative Nutrition Health Coach 	       6/2014 - 1/2017
-Motivated over 60 clients to build sustainable habits through high-mileage questions and personalized goal setting.
+### Anna Tattan, LLC
+**Integrative Nutrition Health Coach** (6/2014 - 1/2017)
 
-Achievement First Brownsville Charter Elementary School	       					    Brooklyn, NY
-Dean of School Culture – Kindergarten to 5th Grade			   	          		   	     2011 – 2014
-Achieved 34% points in ELA and 24% points in Math, exceeding state and city averages by 24% points.
-Resolved over 200 student behavioral interventions by troubleshooting solutions with parents, teachers, and teachers.
++ Motivated over 60 clients to build sustainable habits through high-mileage questions and personalized goal setting.
+
+### Achievement First Brownsville Charter Elementary School	    
+**Dean of School Culture** -- Brooklyn, NY (2011 – 2014)
+
++ Achieved 34% points in ELA and 24% points in Math, exceeding state and city averages by 24% points.
++ Resolved over 200 student behavioral interventions by troubleshooting solutions with parents, teachers, and teachers.
 
 EDUCATION
 Flatiron School 	Online
