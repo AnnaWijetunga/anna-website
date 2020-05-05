@@ -15,7 +15,10 @@ socialImage: ""
 + Single page application to track home maintenance projects
 + [GitHub](https://github.com/AnnaWijetunga/fixit)
 
-Bookshelf
+[Bookshelf](https://the-bookshelf-app.herokuapp.com/)
++ Ruby on Rails
++ Model-View-Controller (MVC) application where users track books and leave reviews
++ [GitHub](https://github.com/AnnaWijetunga/bookshelf)
 
 Penny Patrol
 
