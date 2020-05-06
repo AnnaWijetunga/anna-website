@@ -4,33 +4,38 @@ template: "page"
 socialImage: ""
 ---
 
-[Evergoal](https://my-evergoal.herokuapp.com/)
+*All projects hosted for free, please allow up to 30 seconds for dynos to warm up.*
+
+## [Evergoal](https://my-evergoal.herokuapp.com/)
 + React, Redux, Ruby, Rails, HTML, and CSS
 + Single page application for personal and professional goal tracking
 + [GitHub](https://github.com/AnnaWijetunga/evergoal-frontend)
 + [Video Demo](https://vimeo.com/407732985)
 
 
-[Fixit]()
+## [Fixit]()
 + JavaScript, Ruby, Rails, HTML and CSS
 + Single page application to track home maintenance projects
 + [GitHub](https://github.com/AnnaWijetunga/fixit)
 + [Video Demo](https://vimeo.com/397505644)
 
 
-[Bookshelf](https://the-bookshelf-app.herokuapp.com/)
+## [Bookshelf](https://the-bookshelf-app.herokuapp.com/)
 + Ruby on Rails
 + Model-View-Controller (MVC) application where users track books and leave reviews
 + [GitHub](https://github.com/AnnaWijetunga/bookshelf)
 + [Video Demo](https://vimeo.com/390829692)
 
 
-[Penny Patrol]()
+## [Penny Patrol]()
 + Ruby with Sinatra
 + Fully functional Model-View-Controller (MVC) application for users to track expenses
 + [GitHub](https://github.com/AnnaWijetunga/budget)
 + [Video Demo](https://vimeo.com/386285568)
 
 
-[Book Selector]()
-+ 
+## [Book Selector]()
++ Ruby Command Line Interface (CLI)
++ Select from a list of classic children's books for book summary, author and external link
++ [GitHub](https://github.com/AnnaWijetunga/book-selector-CLI)
++ [Video Demo](https://vimeo.com/378164946)
