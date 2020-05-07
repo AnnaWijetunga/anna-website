@@ -4,6 +4,8 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
+![Image of Anna](/media/image-2.jpg)
+
 Ever since the tender age of five, my dream was to become a teacher, assign homework and bake cookies for my students.
 
 I'm here to tell, you I did just that!
