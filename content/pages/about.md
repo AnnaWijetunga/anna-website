@@ -20,9 +20,9 @@ Compared to guiding customers on how to fill out their tax form, I wanted to be 
 
 I first dabbled in HTML and CSS on freeCodeCamp, which proved my interest was real. Knowing I'd need the accountability as well as curricular guidance, I applied to Flatiron and a week later was accepted.
 
-Six months of coding, sweating, and building the most supportive community, I graudated a Software Engineer with a new lease on life.
+Six months of coding, sweating, and building the most supportive community, I graduated as a Software Engineer with a new lease on life.
 
-I learned that I could *learn* (you CAN teach an old dog new tricks!) and that has opened up my world. 
+I learned that I could *learn anything* (you CAN teach an old dog new tricks!) and that has opened up my world. 
 
 With a solid foundation in Ruby and JavaScript and beautiful frameworks, I'm embarking upon the next segment of this journey. Coding, learning, growing. Looking forward to any and all opportunities to do so!
 
