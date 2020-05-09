@@ -77,7 +77,7 @@ After reading through the alternate solutions from other Codewar users, I was as
 
 Always learning and looking forward to the next challenge.
 
-In case you made it all the way here and you have your own solution, I'd love to see it!
+In case you made it all the way here and you have your own solution, congratulations! 
 
 <!-- 
 ![Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5](/media/movable-type.jpg) -->
