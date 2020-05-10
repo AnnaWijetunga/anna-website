@@ -38,10 +38,10 @@ module.exports = {
     bio: 'Software Engineer',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: '',
       telegram: '',
-      twitter: '#',
-      github: '#',
+      twitter: '',
+      github: '',
       rss: '',
       linkedin: '',
       instagram: '',
