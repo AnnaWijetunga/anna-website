@@ -4,7 +4,7 @@ template: "page"
 socialImage: ""
 ---
 
-*All projects hosted for free, please allow up to 30 seconds for dynos to warm up.*
+*All projects are hosted for free, please allow 30 seconds for dynos to warm up.*
 
 ## [Evergoal](https://my-evergoal.herokuapp.com/)
 + React, Redux, Ruby, Rails, HTML, and CSS
@@ -36,6 +36,6 @@ socialImage: ""
 
 ## [Book Selector]()
 + Ruby Command Line Interface (CLI)
-+ Select from a list of classic children's books for book summary, author and external link
++ Select children's books for book details
 + [GitHub](https://github.com/AnnaWijetunga/book-selector-CLI)
 + [Video Demo](https://vimeo.com/378164946)
