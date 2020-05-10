@@ -22,7 +22,7 @@ socialImage: ""
 
 ## [Bookshelf](https://the-bookshelf-app.herokuapp.com/)
 + Ruby on Rails
-+ Model-View-Controller (MVC) application where users track books and leave reviews
++ Model-View-Controller (MVC) application to track books and share reviews
 + [GitHub](https://github.com/AnnaWijetunga/bookshelf)
 + [Video Demo](https://vimeo.com/390829692)
 
