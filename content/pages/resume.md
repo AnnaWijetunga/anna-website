@@ -6,12 +6,12 @@ socialImage: ""
 
 [GitHub](github.com/AnnaWijetunga) | [DEV](dev.to/annawijetunga)
 
-## FULL STACK SOFTWARE ENGINEER
-Full stack web developer with experience in Ruby and JavaScript frameworks, passionate about learning new skills and applying them to real-world situations. My background in education management provided me with exceptional communication and project management skills, as well as an aptitude for creative and scrappy solutions to big problems, which translates well to writing code and working in teams.
+### Full Stack Software Engineer
+Full stack web developer with experience in Ruby and JavaScript frameworks, passionate about learning new skills and applying them to real-world situations. My background in education management provided me with exceptional communication and project management skills, as well as an aptitude for creative solutions to big problems, which translates well to writing code and working in teams.
 
-## EXPERIENCE
+### EXPERIENCE
 ### Teachable (Ed-Tech)  
-**Senior Customer Education Specialist** -- New York, NY	(5/2018 - 11/2019)       
+**Senior Customer Education Specialist** -- New York, NY (5/2018 - 11/2019)       
 
 + Resolved thousands of technical support emails, averaging 350 tickets per week, double the team average of 160.
 + Achieved 100% live chat customer satisfaction score as compared to a 92% team average.
