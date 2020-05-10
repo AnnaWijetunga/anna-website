@@ -4,19 +4,20 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-![Image of Anna](/media/image-2.jpg)
+<img align="right" src="/media/image-2.jpg">
+<!-- ![Image of Anna](/media/image-2.jpg) -->
 
 Ever since the tender age of five, my dream was to become a teacher, assign homework and bake cookies for my students.
 
-I'm here to tell, you I did just that!
+I'm here to tell you, I did just that!
 
 For a decade, this was the challenging and often syrupy sweet job I'd always wanted. Until it wasn't.
 
 Even though it felt like I was throwing away a perfectly good career, I wanted to keep learning: health coach, shoe salesperson, personal trainer, and mama.
 
-Then in 2018, I was hired to work for an ed-tech company in New York City. This, my dear readers, ignited the spark. I got to see software engineers and developers in action, and the results were magical. I was officially intrigued.
+Then in 2018, I was hired to work for an ed-tech company in New York City. This, my dear readers, ignited the spark. I got to see software engineers and developers in action, and the results were magical. I was officially hooked.
 
-Compared to guiding customers on how to fill out their tax form, I wanted to be the one to advise on that line of code that could transform a page. 
+Compared to guiding customers on how to fill out their tax form, I wanted to be the one to advise on that line of code that could transform their site exactly how they wanted it. 
 
 I first dabbled in HTML and CSS on freeCodeCamp, which proved my interest was real. Knowing I'd need the accountability as well as curricular guidance, I applied to Flatiron and a week later was accepted.
 
