@@ -34,8 +34,8 @@ socialImage: ""
 + [Video Demo](https://vimeo.com/386285568)
 
 
-## [Book Selector]()
+## Book Selector
 + Ruby Command Line Interface (CLI)
-+ Select children's books for book details
++ Select classic children's books for additional details
 + [GitHub](https://github.com/AnnaWijetunga/book-selector-CLI)
 + [Video Demo](https://vimeo.com/378164946)
