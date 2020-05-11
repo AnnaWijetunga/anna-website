@@ -13,7 +13,7 @@ socialImage: ""
 + [Video Demo](https://vimeo.com/407732985)
 
 
-## [Fixit]()
+## [Fixit](https://annawijetunga.github.io/frontend/)
 + JavaScript, Ruby, Rails, HTML and CSS
 + Single page application to track home maintenance projects
 + [GitHub](https://github.com/AnnaWijetunga/fixit)
