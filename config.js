@@ -12,12 +12,16 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'About',
+      path: '/pages/about'
+    },
+    {
+      label: 'Blog',
       path: '/'
     },
     {
-      label: 'About',
-      path: '/pages/about'
+      label: 'Contact',
+      path: '/pages/contacts'
     },
     {
       label: 'Projects',
@@ -27,10 +31,6 @@ module.exports = {
       label: 'Resume',
       path: 'pages/resume',
     },
-    {
-      label: 'Contact',
-      path: '/pages/contacts'
-    }
   ],
   author: {
     name: 'Anna Wijetunga',
