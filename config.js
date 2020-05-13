@@ -34,8 +34,7 @@ module.exports = {
   ],
   author: {
     name: 'Anna Wijetunga...',
-    photo: 'static/photo.jpg',
-    // '/photo.jpg', 
+    photo: '/photo.jpg',
     bio: '...is a software engineer, former educator & forever learner',
     contacts: {
       email: '',
