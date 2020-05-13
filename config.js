@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Anna Wijetunga',
-  subtitle: 'software engineer, former educator and forever learner',
+  subtitle: 'software engineer | former educator | forever learner',
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 3,
@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Anna Wijetunga',
     photo: '/photo.jpg',
-    bio: 'software engineer, former educator and forever learner',
+    bio: 'software engineer | former educator | forever learner',
     contacts: {
       email: '',
       facebook: '',
