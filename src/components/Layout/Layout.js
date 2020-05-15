@@ -21,7 +21,7 @@ const Layout = ({
 }: Props) => {
   const { author, url } = useSiteMetadata();
   // const metaImage = socialImage != null ? socialImage : author.photo;
-  const metaImage = author.photo;
+  const metaImage = socialImage;
   const metaImageUrl = url + withPrefix(metaImage);
 
   return (
