@@ -30,4 +30,4 @@ I learned that I could *learn anything* (you CAN teach an old dog new tricks!) a
 
 With a solid foundation in Ruby and JavaScript and beautiful frameworks, I'm embarking upon the next segment of this journey. Coding, learning, growing. Looking forward to any and all opportunities to do so!
 
-If you made it all the way to the bottom, thanks so much for reading. I'd love to hear what brought you here - [get in touch](/contact/) any time.
+If you made it all the way to the bottom, thanks so much for reading. I'd love to hear what brought you here - [get in touch](/pages/contacts) any time.
