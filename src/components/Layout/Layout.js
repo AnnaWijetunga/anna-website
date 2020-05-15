@@ -22,7 +22,7 @@ const Layout = ({
   const { author, url } = useSiteMetadata();
   // const metaImage = socialImage != null ? socialImage : author.photo;
   // const metaImage = socialImage != null ? author.photo : socialImage;
-  const metaImage = author.photo;
+  const metaImage = socialImage = null ? socialImage : author.photo;
   const metaImageUrl = url + withPrefix(metaImage);
 
   return (
