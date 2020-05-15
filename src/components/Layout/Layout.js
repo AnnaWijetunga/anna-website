@@ -20,17 +20,9 @@ const Layout = ({
   socialImage
 }: Props) => {
   const { author, url } = useSiteMetadata();
-  // original below:
+  
+  // this line is impacting that featured image
   const metaImage = socialImage != null ? socialImage : author.photo;
-
-
-  // const metaImage = socialImage != null ? author.photo : socialImage;
-
-  // shows non image
-  // const metaImage = author.photo;
-
-  // shows no image
-  // const metaImage = socialImage;
   const metaImageUrl = url + withPrefix(metaImage);
 
   return (
