@@ -6,7 +6,7 @@ socialImage: "/media/image-2.jpg"
 
 <!-- ![Image of Anna](/media/image-2.jpg) -->
 
-<figure class="float-left" style="width: 240px">
+<figure class="float-right" style="width: 240px">
 	<img src="/media/image-2.jpg" alt="Photo of Anna">
 </figure>
 
