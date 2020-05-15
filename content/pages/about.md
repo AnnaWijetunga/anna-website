@@ -4,8 +4,13 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-<img align="right" src="/media/image-2.jpg">
-<!-- ![Image of Anna](/media/image-2.jpg) -->
+<!-- <img align="right" src="/media/image-2.jpg">
+![Image of Anna](/media/image-2.jpg) -->
+
+<figure class="float-left" style="width: 240px">
+	<img src="/media/image-2.jpg" alt="Photo of Anna">
+	<figcaption>Happy me.</figcaption>
+</figure>
 
 Ever since the tender age of five, my dream was to become a teacher, assign homework and bake cookies for my students.
 
