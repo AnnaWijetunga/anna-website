@@ -36,6 +36,6 @@ socialImage: ""
 
 ## Book Selector
 + Ruby Command Line Interface (CLI)
-+ Select classic children's books for additional details
++ Select classic children's books for additional information
 + [GitHub](https://github.com/AnnaWijetunga/book-selector-CLI)
 + [Video Demo](https://vimeo.com/378164946)
