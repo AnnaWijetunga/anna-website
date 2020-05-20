@@ -1,11 +1,21 @@
-Welcome to my personal website, annawijetunga.com.
+## Welcome
+Welcome to my personal website, annawijetunga.com!
 
-This website was built using Gatsy, and specifically Lumen. 
+This website was built using Gatsy, specifically Lumen. 
 
-You can visit annawijetunga.com at any time, and don't hesitate to contact me on my Contacts page with any/all feedback. Notice a spelling error? Think I could organize the menu better? Would like to see something not presently there? Would love to hear about it!
+You can visit annawijetunga.com at any time, and don't hesitate to contact me on my Contacts page with any/all feedback. 
+
+Notice a spelling error? 
+
+Think I could organize the menu better? 
+
+Would like to see something not presently there? 
+
+I'd love to hear about it!
 
 My site was deployed with Netlify, which was a delightful process. 
 
+## Lumen
 See below for all information about Lumen:
 
 <h1 align="center">
