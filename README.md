@@ -2,7 +2,7 @@ Welcome to my personal website, annawijetunga.com.
 
 This website was built using Gatsy, and specifically Lumen. 
 
-
+You can visit annawijetunga.com at any time, and don't hesitate to contact me on my Contacts page with any/all feedback. Notice a spelling error? Think I could organize the menu better? Would like to see something not presently there? Would love to hear about it!
 
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
