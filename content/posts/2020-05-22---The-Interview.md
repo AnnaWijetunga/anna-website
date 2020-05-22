@@ -3,12 +3,13 @@ title: "The Interview"
 date: "2020-05-22T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "imposter-syndrome"
-category: "Code Newbie"
+slug: "the-interview"
+category: "Interview"
 tags:
   - "Code Newbie"
-  - "Gatsby"
-description: "Imposter syndrome, so real!"
+  - "JavaScript"
+  - "Interview"
+description: "The outcome of my first technical interview."
 socialImage: ""
 ---
 
