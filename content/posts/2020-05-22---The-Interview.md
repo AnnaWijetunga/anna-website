@@ -49,6 +49,7 @@ And after what happened today, I have to say, I'm on board.
 
 ## Failing doesn't mean you're no good. What is means is the approach you took didn't quite work. 
 
+
 With that in mind, here's my plan:
 
 1) Feel the feels. Don't brush past the disappointment, but also, celebrate the good.
