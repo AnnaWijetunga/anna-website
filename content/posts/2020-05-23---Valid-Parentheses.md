@@ -1,22 +1,21 @@
 ---
-title: "The Interview"
-date: "2020-05-22T22:40:32.169Z"
+title: "Valid Parentheses"
+date: "2020-05-23T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "the-interview"
-category: "Interview"
+slug: "valid-parentheses"
+category: "JavaScript"
 tags:
-  - "Code Newbie"
   - "JavaScript"
-  - "Interview"
+  - "Code Newbie"
+  - "Codewars"
 description: "The outcome of my first technical interview."
 socialImage: ""
 ---
 
-
 I completed a technical interview this week and received specific feedback:
 
-##"Get faster."
+## "Get faster."
 
 I have a process, the process works, the process is **slow**.
 
