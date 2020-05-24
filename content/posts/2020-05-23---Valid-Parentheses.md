@@ -15,7 +15,7 @@ socialImage: ""
 
 I completed a technical interview this week and received specific feedback:
 
-## "Get faster."
+**"Get faster."**
 
 I have a process, the process works, the process is **slow**.
 
@@ -102,7 +102,7 @@ I ended up going over my time limit. 15 minutes wasn't enough, but I got more ac
 
 After submitting my solution, I love browsing through other solutions. Here is one that stood out to me because of how concise it is:
 
-**Clever Solution:**
+**A Clever Solution:**
 ```
 function validParentheses(parens){
   let indent = 0;
