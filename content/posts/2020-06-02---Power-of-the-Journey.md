@@ -1,4 +1,21 @@
+---
+title: "Valid Parentheses"
+date: "2020-05-23T22:40:32.169Z"
+template: "post"
+draft: false
+slug: "valid-parentheses"
+category: "JavaScript"
+tags:
+  - "JavaScript"
+  - "Code Newbie"
+  - "Codewars"
+description: "The outcome of my first technical interview."
+socialImage: ""
+---
 
+I completed a technical interview this week and received specific feedback:
+
+**"Get faster."**
 
 
 
