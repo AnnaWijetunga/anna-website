@@ -15,11 +15,7 @@ Before we dig in.
 
 2020 has meant:
 
-Australian Bushfires
-
-COVID-19
-
-Black Lives Matter
+Australian Bushfires & COVID-19 & Black Lives Matter
 
 That's not exhaustive.
 
