@@ -1,30 +1,15 @@
 ---
-title: "Valid Parentheses"
-date: "2020-05-23T22:40:32.169Z"
+title: "Power of the Journey"
+date: "2020-06-02T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "valid-parentheses"
-category: "JavaScript"
+slug: "power-of-the-journey"
+category: "Code Newbie"
 tags:
-  - "JavaScript"
   - "Code Newbie"
-  - "Codewars"
-description: "The outcome of my first technical interview."
+description: "There's never one path - why this is such a good thing."
 socialImage: ""
 ---
-
-I completed a technical interview this week and received specific feedback:
-
-**"Get faster."**
-
-
-
-
-
-
-
-
-
 
 Before we dig in.
 
@@ -65,7 +50,5 @@ Although no one has taken the same path from point A to point B, there are beaut
 5) This is a JOURNEY. Invest in it daily.
 
 Cannot wait to keep listening, cannot wait to learn from those before me.
-
-Have something to add? I'm all ears.
 
 Be well.
