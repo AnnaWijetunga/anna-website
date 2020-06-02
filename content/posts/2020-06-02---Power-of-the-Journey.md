@@ -16,7 +16,9 @@ Before we dig in.
 2020 has meant:
 
 Australian Bushfires
+
 COVID-19
+
 Black Lives Matter
 
 That's not exhaustive.
@@ -28,7 +30,9 @@ And then I take a step forward.
 As I dig into writing about this coding journey here and now, please know I do this because it helps me remember:
 
 Nothing is permanent
+
 Life is constantly teaching, but it's up to us to learn
+
 We can rally together when things get scary
 
 With that in mind, the power of the journey.
