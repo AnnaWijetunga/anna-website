@@ -15,7 +15,7 @@ Before we dig in.
 
 2020 has meant:
 
-Australian Bushfires & COVID-19 & Black Lives Matter
+**Australian Bushfires & COVID-19 & Black Lives Matter**
 
 That's not exhaustive.
 
@@ -29,7 +29,7 @@ Nothing is permanent
 
 Life is constantly teaching, but it's up to us to learn
 
-We can rally together when things get scary
+**We can rally together when things get scary**
 
 With that in mind, the power of the journey.
 
