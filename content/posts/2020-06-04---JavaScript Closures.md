@@ -1,4 +1,16 @@
-
+---
+title: "JavaScript Closures"
+date: "2020-06-04T22:40:32.169Z"
+template: "post"
+draft: false
+slug: "javascript-closures"
+category: "JavaScript"
+tags:
+  - "Code Newbie"
+  - "JavaScript"
+description: "There's never one path - why this is such a good thing."
+socialImage: ""
+---
 
 Like learning any new language, your knowledge can drip away when your focus shifts.
 
