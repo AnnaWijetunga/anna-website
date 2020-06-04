@@ -50,5 +50,5 @@ Many (and I mean *many*) other authors claimed to explain closures simply, but I
 
 [Simple Explanation of Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures/)
 
-Have a different resource or explanation that helped closures "click" for you? Share below - would love to hear more.
+Here's hoping this helped you hear about closures in a way that helps. Thanks so much for reading.
 
