@@ -8,7 +8,7 @@ category: "JavaScript"
 tags:
   - "Code Newbie"
   - "JavaScript"
-description: "There's never one path - why this is such a good thing."
+description: "What are closures, anyway?"
 socialImage: ""
 ---
 
