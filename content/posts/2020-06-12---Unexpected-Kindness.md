@@ -1,18 +1,16 @@
 ---
-title: "That Second Interview"
-date: "2020-06-08T22:40:32.169Z"
+title: "Unexpected Kindness"
+date: "2020-06-12T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "that-second-interview"
+slug: "unexpected-kindness"
 category: "Interview"
 tags:
   - "Code Newbie"
-  - "JavaScript"
   - "Interview"
-description: "A second technical interview. Why did I like that so much?"
+description: "Ever been on the receiving end of unexpected kindness?"
 socialImage: ""
 ---
-
 
 Ever been on the receiving end of unexpected kindness? Then you know it's worth talking about!
 
