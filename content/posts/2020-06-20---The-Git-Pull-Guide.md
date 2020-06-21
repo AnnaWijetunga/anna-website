@@ -1,5 +1,16 @@
-
-
+---
+title: "The Git Pull Guide"
+date: "2020-06-20T22:40:32.169Z"
+template: "post"
+draft: false
+slug: "git-pull-guide"
+category: "GitHub"
+tags:
+  - "Code Newbie"
+  - "GitHub"
+description: "Finally. I finally learn to make a pull request."
+socialImage: ""
+---
 
 GitHub is powerful and often magical.
 
