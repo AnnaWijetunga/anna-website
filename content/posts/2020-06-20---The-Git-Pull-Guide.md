@@ -12,7 +12,7 @@ description: "Finally. I finally learn to make a pull request."
 socialImage: ""
 ---
 
-GitHub is powerful, and often magical!
+GitHub is powerful and often magical.
 
 But learning the ins and outs has been *stressful.*
 
