@@ -27,5 +27,5 @@ jobs:
     - run: npm install
     - run: npm run lint
     - run: npm run test --runInBand --no-cache
-      env:y
+      env:
         CI: true
