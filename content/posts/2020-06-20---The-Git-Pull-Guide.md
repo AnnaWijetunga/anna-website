@@ -8,7 +8,7 @@ category: "GitHub"
 tags:
   - "Code Newbie"
   - "GitHub"
-description: "Finally. I finally learn to make a pull request."
+description: "Finally. I learn to make a pull request."
 socialImage: ""
 ---
 
