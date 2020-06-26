@@ -10,7 +10,9 @@ socialImage: "/media/image-2.jpg"
 	<img src="/media/image-2.jpg" alt="Photo of Anna">
 </figure>
 
-Oh hi! I'm Anna Wijetunga, and ever since the tender age of five, my dream was to become a teacher, assign homework and bake cookies for my students.
+Oh hi, so glad you're here! 
+
+I'm Anna Wijetunga, and ever since the tender age of five, my dream was to become a teacher, assign homework and bake cookies for my students.
 
 I'm here to tell you, I did just that!
 
