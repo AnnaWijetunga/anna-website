@@ -36,15 +36,19 @@ Here's my take.
 
 The author of the original guide would advise you to first fork the original repo.
 
-This caused me to pull my hair out (when I eventually tried to push changes to the original repo), so I do not recommend doing that. 
+This caused me to pull my hair out (when I eventually tried to push changes to the original repo), so I did not do that.
 
-But keep in mind, that is a viable option.
+A kind reader suggested the following perspective (thank you Jennifer Davis!), and I wanted to share it with you here:
+
+"As for forking or not, it all depends first on your workflow and how you want to work and if you have owner/maintainer privs on the source repo. If you aren't an owner/maintainer you definitely have to fork the repo."
+
+Great tips, Jennifer!
 
 **2) Clone the repo.**
 
 `git clone https://github.com/<YourUserName>/demo`
 
-**Note:** when cloning, use the `https` version of the repo, not the `SSH.` I wish I knew why (do you know why?) but it does matter.
+**Note:** when cloning, I ran into a few hiccups using the SSH version, but after helpful wisdom from Jennifer Davis (yup! she's done it again!), I'd now recommend using SSH, with this helpful [GitHub resource](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 **3) Switch into your new directory.**
 
