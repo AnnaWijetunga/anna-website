@@ -14,7 +14,7 @@ Hi, I'm so glad you're here!
 
 I'm Anna Wijetunga, and ever since the tender age of five, my dream was to become a teacher, assign homework and bake cookies for my students.
 
-I'm here to tell you, I did just that!
+And I did just that!
 
 For a decade, this was the challenging and often syrupy sweet job I'd always wanted. Until it wasn't.
 
