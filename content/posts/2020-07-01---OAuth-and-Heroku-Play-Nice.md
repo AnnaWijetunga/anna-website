@@ -66,4 +66,6 @@ And that did the trick.
 
 If you've given this a try, or even if you've figured out how to do this already, sure would love to hear about your experience!
 
+[Get in touch](/pages/contacts) any time.
+
 Thanks so much for reading - until next time.
