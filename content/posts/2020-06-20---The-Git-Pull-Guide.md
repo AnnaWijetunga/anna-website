@@ -95,3 +95,5 @@ And create a pull request from there.
 Tears of joy, applause, so happy. 
 
 Thanks so much for reading, catch you next time!
+
+P.S. [Get in touch](/pages/contacts) any time.
