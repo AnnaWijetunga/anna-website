@@ -67,3 +67,5 @@ Sharing what this experience meant to me, hoping it can you teach you something 
 Steve Levy, you keep doing what you're doing, and you're going to change the world. Heck, you already have.
 
 To other folks out there following suit, the world is awfully lucky you're here.
+
+[Get in touch](/pages/contacts) any time.
