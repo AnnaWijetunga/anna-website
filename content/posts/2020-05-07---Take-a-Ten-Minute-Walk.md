@@ -118,3 +118,5 @@ function isValidWalk(walk) {
 After too many hours (yes, that's plural) of working through this, it's time to go on a real 10-minute walk. 
 
 Thanks so much for reading, and great work to you if you worked through this one!
+
+[Get in touch](/pages/contacts) any time.
