@@ -52,3 +52,5 @@ Although no one has taken the same path from point A to point B, there are beaut
 Cannot wait to keep listening to and learning from those before me.
 
 Be well.
+
+[Get in touch](/pages/contacts) any time.
