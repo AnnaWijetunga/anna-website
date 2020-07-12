@@ -60,3 +60,5 @@ With that in mind, here's my plan:
 If you are curious and want to know more, send me a message. I will always be happy to respond.
 
 Thank you for reading.
+
+[Get in touch](/pages/contacts) any time.
