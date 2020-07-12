@@ -52,3 +52,4 @@ Many (and I mean *many*) other authors claimed to explain closures simply, but I
 
 Here's hoping this helped you hear about closures in a way that helps. Thanks so much for reading.
 
+[Get in touch](/pages/contacts) any time.
