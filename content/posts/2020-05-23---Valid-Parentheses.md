@@ -118,3 +118,5 @@ function validParentheses(parens){
 Always more to learn, and here's hoping this type of daily coding with a time limit helps me boost my confidence and gets my speed up to par.
 
 Did you code along? Have a different solution or a tip for improvement? Sure would love to hear about it :).
+
+[Get in touch](/pages/contacts) any time.
