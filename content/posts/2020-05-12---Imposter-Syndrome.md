@@ -98,3 +98,5 @@ And I swiftly took a direct flight back to reality.
 And yes, it happens that quickly.
 
 Been there? Experienced that? Sure would love to hear about it. And, for what it's worth, you're not alone.
+
+[Get in touch](/pages/contacts) any time.
