@@ -24,5 +24,7 @@ Things to figure out:
 
 No lack of things to do to answer those q's, so I'll scoot off to figure out the details. Catch you next time with the update on where I'm heading next.
 
+[Get in touch](/pages/contacts) any time.
+
 
 *Originally published by Anna Wijetunga on [Dev](https://dev.to/annawijetunga/kick-off-beyond-bootcamp-29ef).*
