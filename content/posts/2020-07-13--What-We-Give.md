@@ -55,6 +55,8 @@ These good eggs who gather on Fridays, we are indeed a group who give. The shari
 
 (Well, except for the folks who leave to work their new, real jobs, but we forgive them.)
 
-Are you looking to practice for interviews? We welcome you! Respond to this post, and I'll share the details for how you can join us.
+Are you looking to practice for interviews? We welcome you! Contact me below, and I'll share the details for how you can join us.
+
+[Get in touch](/pages/contacts) any time.
 
 Thanks for reading!
