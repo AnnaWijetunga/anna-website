@@ -1,16 +1,13 @@
 ---
-title: "OAuth and Heroku Play Nice"
-date: "2020-07-01T22:40:32.169Z"
+title: "What We Give"
+date: "2020-07-13T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "oauth-and-heroku-play-nice"
-category: "OAuth"
+slug: "what-we-give"
+category: "Code Newbie"
 tags:
   - "Code Newbie"
-  - "OAuth"
-  - "Herkoku"
-  - "Rails"
-description: "The time has come for OAuth to work while hosting my Rails app on Heroku. Deep sigh of happiness."
+description: "The most impactful part of my post-graduation weeks."
 socialImage: ""
 ---
 
