@@ -1,4 +1,18 @@
-
+---
+title: "OAuth and Heroku Play Nice"
+date: "2020-07-01T22:40:32.169Z"
+template: "post"
+draft: false
+slug: "oauth-and-heroku-play-nice"
+category: "OAuth"
+tags:
+  - "Code Newbie"
+  - "OAuth"
+  - "Herkoku"
+  - "Rails"
+description: "The time has come for OAuth to work while hosting my Rails app on Heroku. Deep sigh of happiness."
+socialImage: ""
+---
 
 My cohort mates and I graduated from Flatiron in April. Such good eggs, they are.
 
