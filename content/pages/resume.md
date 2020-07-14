@@ -5,7 +5,7 @@ socialImage: ""
 ---
 
 ### Full Stack Software Engineer
-Full stack web developer with experience in Ruby and JavaScript frameworks, passionate about learning new skills and applying them to real-world situations. My background in education management provided me with exceptional communication and project management skills, as well as an aptitude for creative solutions to big problems, which translates well to writing code and working in teams.
+Full Stack Web Developer (Ruby and JavaScript frameworks) and former Elementary School Teacher and Dean. Extensive background in teaching and education management demonstrate exceptional communication and project management skills, an aptitude for creative solutions to big problems, and the ability to work with “challenging” people. This translates exceptionally well to software engineering, technology teamwork, and managing “tough” clients.
 
 ## Experience
 ### Teachable (Ed-Tech)  
