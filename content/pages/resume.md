@@ -30,7 +30,7 @@ Full stack web developer with experience in Ruby and JavaScript frameworks, pass
 ## Education
 **Flatiron School** -- Immersive Software Engineer Program (11/2019 - 4/2020)
 
-**Teacher U / Relay** -- Master of Science (M.S.) in Education (2008-2010)
+**Relay Graduate School of Education** -- Master of Science (M.S.) in Education (2008-2010)
 
 **University of Michigan** -- Bachelor of Arts (B.A.) in Education (2001 - 2006)
 
