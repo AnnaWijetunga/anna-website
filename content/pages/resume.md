@@ -35,4 +35,4 @@ Full stack web developer with experience in Ruby and JavaScript frameworks, pass
 **University of Michigan** -- Bachelor of Arts (B.A.) in Education (2001 - 2006)
 
 ## Technical Skills
-Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design, Gatsby
+Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design, Gatsby.js, Heroku
