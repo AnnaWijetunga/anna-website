@@ -7,7 +7,7 @@ slug: "what-we-give"
 category: "Code Newbie"
 tags:
   - "Code Newbie"
-description: "The most impactful part of my post-graduation weeks."
+description: "The most impactful part of my post-graduation weeks - pair programming."
 socialImage: ""
 ---
 
