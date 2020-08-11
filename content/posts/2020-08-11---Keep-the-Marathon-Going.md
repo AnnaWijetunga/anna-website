@@ -8,7 +8,7 @@ category: "Career"
 tags:
   - "Career"
   - "Code Newbie"
-description: "This is the part where my world shifts - I'm officially a Software Engineer."
+description: "This is when my world shifts - I'm officially a Software Engineer."
 socialImage: ""
 ---
 
