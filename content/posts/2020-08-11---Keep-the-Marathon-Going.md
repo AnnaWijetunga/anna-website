@@ -1,13 +1,14 @@
 ---
-title: "What We Give"
-date: "2020-07-13T22:40:32.169Z"
+title: "Keep the Marathon Going"
+date: "2020-08-11T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "what-we-give"
-category: "Code Newbie"
+slug: "keep-the-marathon-going"
+category: "Career"
 tags:
+  - "Career"
   - "Code Newbie"
-description: "The most impactful part of my post-graduation weeks - pair programming."
+description: "This is the part where my world shifts - I'm officially a Software Engineer."
 socialImage: ""
 ---
 
