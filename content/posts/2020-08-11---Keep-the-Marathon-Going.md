@@ -1,5 +1,15 @@
-
-
+---
+title: "What We Give"
+date: "2020-07-13T22:40:32.169Z"
+template: "post"
+draft: false
+slug: "what-we-give"
+category: "Code Newbie"
+tags:
+  - "Code Newbie"
+description: "The most impactful part of my post-graduation weeks - pair programming."
+socialImage: ""
+---
 
 I'm a runner, and I run marathons. It's a crazy thing to run 26.2 miles, but boy, do I enjoy it.
 
