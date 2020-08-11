@@ -57,4 +57,6 @@ The marathon's not nearly over, but heck if this isn't the motivation and suppor
 
 I can't believe I'm lucky enough to be a part of this, yes THIS, community. So grateful for the support that's carried me this far - can't wait to see what comes next.
 
-If you're running your marathon and job hunting right now, leave a comment below! I always appreciated when folks would share with me how they found their job and what they learned along the way - would love to pay it forward!
+If you're running your marathon and job hunting right now, contact me! I always appreciated when folks would share with me how they found their job and what they learned along the way - would love to pay it forward!
+
+[Get in touch](/pages/contacts) any time.
