@@ -11,7 +11,7 @@ Full Stack Web Developer (Ruby and JavaScript frameworks) and former Elementary 
 
 ### aware3
 **Associate Software Engineer** -- Remote (8/2020 - Present)
-
++ Coming soon!
 
 ### Teachable (Ed-Tech)  
 **Senior Customer Education Specialist** -- New York, NY (5/2018 - 11/2019)       
