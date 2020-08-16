@@ -8,6 +8,11 @@ socialImage: ""
 Full Stack Web Developer (Ruby and JavaScript frameworks) and former Elementary School Teacher and Dean. Extensive background in teaching and education management demonstrate exceptional communication and project management skills, an aptitude for creative solutions to big problems, and the ability to work with challenging people. This translates exceptionally well to software engineering, technology teamwork, and managing tough clients.
 
 ## Experience
+
+### aware3
+**Associate Software Engineer** -- Remote (8/2020 - Present)
+
+
 ### Teachable (Ed-Tech)  
 **Senior Customer Education Specialist** -- New York, NY (5/2018 - 11/2019)       
 
