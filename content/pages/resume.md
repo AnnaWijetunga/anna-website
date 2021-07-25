@@ -45,4 +45,4 @@ Full Stack Web Developer (Ruby and JavaScript frameworks) and former Elementary 
 **University of Michigan** -- Bachelor of Arts (B.A.) in Education (2001 - 2006)
 
 ## Technical Skills
-Ruby, Ruby on Rails, JavaScript, React, Redux, HTML/CSS, SQL/Postgres, Bootstrap, Semantic UI React, Git/Github, Pair Programming, Object-Oriented Design, Gatsby.js, Heroku, KanbanFlow
+JavaScript, Vue.js, Vuex, Knockout.js, HTML/CSS, SQL/Postgres, Bootstrap, Git/Github, Pair Programming, Object-Oriented Design, Gatsby.js, KanbanFlow, Unit Tests, Acceptance Tests, Visual Regression Tests, TDD
