@@ -10,7 +10,13 @@ Full Stack Web Developer (Ruby and JavaScript frameworks) and former Elementary 
 ## Experience
 ### aware3
 **Associate Software Engineer** -- Remote (8/2020 - Present)
-+ Coming soon!
+
++ Decreased pull request review cycles by 20% by coordinating critical and daily communication with all engineers.
++ Promoted to JavaScript Engineer within one year for recognition of time/effort dedicated to teammates for debugging.
++ Increased new hire productivity by 20% by debugging local setup through daily and real-time troubleshooting calls.
++ Resolved hundreds of technical tickets to fix bugs or build new features by leading with test driven development.
++ Published weekly technical stackoverflow and Confluence posts to document processes and expertise team-wide.
+
 
 ### Teachable (Ed-Tech)  
 **Senior Customer Education Specialist** -- New York, NY (5/2018 - 11/2019)       
