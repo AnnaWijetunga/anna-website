@@ -4,8 +4,10 @@ template: "page"
 socialImage: ""
 ---
 
-### Full Stack Software Engineer
-Full Stack Web Developer (Ruby and JavaScript frameworks) and former Elementary School Teacher and Dean. Extensive background in teaching and education management demonstrate exceptional communication and project management skills, an aptitude for creative solutions to big problems, and the ability to work with challenging people. This translates exceptionally well to software engineering, technology teamwork, and managing tough clients.
+### Frontend Software Engineer
++ Results-oriented: analyzes code and engineers well-researched, cost-effective and responsive solutions.
++ Enthusiastic collaborator: demonstrates exceptional cross-functional communication and task management skills.
++ Innovative: passion for experimenting with fullstack development solutions to find the best working solution.
 
 ## Experience
 ### aware3
